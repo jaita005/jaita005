@@ -8,14 +8,8 @@ Currently interested in learning Machine Learning and its applications.
 
 📫 How to reach me [jaitasreeharish05@gmail.com](mailto:jaitasreeharish05@gmail.com)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaita005&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/jaita005?style=flat-square&color=blue" alt="Followers" />
-</div>
 
 ---
-
-
 
 ## My Skills
 <p align="center">
