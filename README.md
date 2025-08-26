@@ -1,42 +1,54 @@
-# About Me
-Hi, I'm Jaitasree, a curious computer science student who loves turning ideas into code.
+## 👋 Hi there, I'm Jaitasree!
+Third Year computer science student who loves turning ideas into code.
 Currently interested in learning Machine Learning and its applications. 
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=300&lines=Code.+Learn.+Innovate." alt="Typing SVG" />
+</div> 
+
+📫 How to reach me [jaitasreeharish05@gmail.com](mailto:jaitasreeharish05@gmail.com)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaita005&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/jaita005?style=flat-square&color=blue" alt="Followers" />
+</div>
 
 ---
 
+
+
 ## My Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
----
+
+## Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 
 ## 📊 GitHub Stats
-![Jaita's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaita005&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaita005&layout=compact&theme=radical)
+<div align="center">
+  
+![Jaita's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaita005&show_icons=true&theme=radical)     ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaita005&layout=compact&theme=radical)
 
----
+![GitHub Streak](https://github-readme-streak-stats-five-roan.vercel.app?user=jaita005&theme=radical)
+
+</div>
 
 
-<!--
-**jaita005/jaita005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
