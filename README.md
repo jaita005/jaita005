@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Jaitasree!
+ <h1 align="center">👋 Hi there, I'm Jaitasree!</h1>
 Third Year computer science student who loves turning ideas into code.
 Currently interested in learning Machine Learning and its applications. 
 
@@ -36,9 +36,7 @@ Currently interested in learning Machine Learning and its applications.
 
 <div align="center">
   
-![Jaita's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaita005&show_icons=true&theme=radical)     ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaita005&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats-five-roan.vercel.app?user=jaita005&theme=radical)
+![Jaita's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaita005&show_icons=true&theme=radical)      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaita005&layout=compact&theme=radical)
 
 </div>
 
