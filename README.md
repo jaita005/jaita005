@@ -36,7 +36,7 @@ Currently interested in learning Machine Learning and its applications.
 
 <div align="center">
   
-![Jaita's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaita005&show_icons=true&theme=radical)      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaita005&layout=compact&theme=radical)
+![GitHub Stats](https://readme-stats-fork-mauve.vercel.app/api/?username=jaita005&theme=radical&show_icons=true&count_private=true&include_all_commits=true)     ![Top Languages](https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=jaita005&theme=radical&layout=compact&langs_count=6&hide_border=false)
 
 </div>
 
