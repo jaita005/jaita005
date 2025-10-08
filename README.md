@@ -1,6 +1,5 @@
  <h1 align="center">👋 Hi there, I'm Jaitasree!</h1>
 Third Year computer science student who loves turning ideas into code.
-Currently interested in learning Machine Learning and its applications. 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=300&lines=Code.+Learn.+Innovate." alt="Typing SVG" />
